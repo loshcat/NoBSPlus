@@ -11,4 +11,4 @@ A browser extension for the NoBS crypto spreadsheet.
 Permissions are for the actual NoBS Crypto Spreadsheet found at: [NoBS Crypto](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vTaQSEXx7nayY6FJ8O4icWjTKhQGG4Oup8L7lDy7Pb5oLa2Y-Bv-c_MyFa7kVomltx_aOBw-caJoq47/pubhtml) and for the CryptoCompare API.
 The extension should only be active when on the spreadsheet.
 
-This is WIP currently being worked on by Guy Styles and Loshcat.
+This is WIP currently being worked on by Loshcat.
